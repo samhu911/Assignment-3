@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .red{
+    background-color: red;
+  }
+  
+  .green{
+    background-color: green;
+  }
+  
+  .blue{
+    background: blue;
+  }
